@@ -1,0 +1,77 @@
+body {
+    background-color:#32d632;
+    margin-top: 50px;
+    margin-right: 50px;
+    border-width: 2cm;
+    border-left: 2cm;
+    border-right: 2cm;
+    border-top: 2cm;
+    border-bottom: 2cm;
+    border-style:dashed;  
+
+    
+}
+#cabeçalho{
+    font-size:xx-large;
+    text-align:center;
+    background-color:rgb(169, 101, 236);
+    font-family:'Balsamiq Sans';
+    color: black;  
+       
+}
+
+form{
+    font-family: Verdana,Tahoma,sans-serif;
+    font-size: 15px;
+    background-color:rgb(169, 101, 236);
+    width:5%;
+    padding-right: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color:black;
+    text-align: center;  
+}
+
+input, textarea {
+    background-color: #e6ebe4;
+    width: 200px;
+    padding: 21px;
+    color:red;
+    margin-left: 19px;
+    margin-top: 19px;
+    border: 1px solid;
+}
+
+
+
+.enviar {
+    background-color: #e6ebe4;
+    height: 40px;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border: 2px solid;
+    color:red;
+}
+
+textarea {
+    width: 650px;
+    height: 145px;
+    line-height: 25px;
+    max-width: 400px;
+    padding: 14px;
+    color: red;
+}
+
+form label {
+    margin-left: 60px;
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}

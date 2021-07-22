@@ -1,0 +1,57 @@
+body{
+    background-color:#32d632;
+    margin-top: 50px;
+    margin-right: 50px;
+    border-width: 2cm;
+    border-left: 2cm;
+    border-right: 2cm;
+    border-top: 2cm;
+    border-bottom: 2cm;
+    border-style:dashed;  
+}
+#cabeçalho{
+    font-size:xx-large;
+    text-align:center;
+    background-color:rgb(169, 101, 236);
+    font-family:'Balsamiq Sans';
+}
+#cabeçalho img{
+    width: 300px;
+    height: 300px;
+    display: center;
+}
+#corpo-do-site{
+    color:black;
+    text-align:justify;
+    font-size:25px;
+    padding:10px 10px 10px 10px;
+}
+#corpo-do-site img{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+    text-align: center;
+}
+#link{
+    background-color: #e6ebe4;
+    display:grid;
+    text-align: center;
+   padding: 20px 20px 20px 20px;
+   background-image: url(./imagem/jogos-matematicos.jpg);
+   
+}
+#link-button{
+color: #ee0c0c;
+font-size: 30px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: chartreuse;
+}
+#link-button:hover{
+    color:black;
+    background-color: hsl(133, 100%, 50%);
+}
